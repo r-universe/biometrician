@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "coxphw"]
+	path = coxphw
+	url = https://github.com/biometrician/coxphw
+	shallow = true
+	registered = true
+[submodule "shrink"]
+	path = shrink
+	url = https://github.com/biometrician/shrink
+	shallow = true
+	registered = true

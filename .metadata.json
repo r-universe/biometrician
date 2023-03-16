@@ -1,0 +1,10 @@
+[
+  {
+    "package": "coxphw",
+    "oncran": true
+  },
+  {
+    "package": "shrink",
+    "oncran": true
+  }
+]
